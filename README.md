@@ -1,6 +1,20 @@
 # Movie App
 This movie app is a platform that utilizes The Movie DB API to offer users access to a wide selection of movies and actors. Developed with React Native, Expo, NativeWind, and React Navigation, the app provides a user-friendly and easy-to-use interface for movie enthusiasts.
 
+## Demo
+<div>
+  <div>
+  <img src="./assets/Demo/Demo1.JPG" alt="index" width="200" height="400">
+  <img src="./assets/Demo/Demo2.JPG" alt="index" width="200" height="400">
+  <img src="./assets/Demo/Demo3.JPG" alt="index" width="200" height="400">
+</div>
+<div>
+  <img src="./assets/Demo/Demo4.JPG" alt="index" width="200" height="400">
+  <img src="./assets/Demo/Demo5.JPG" alt="index" width="200" height="400">
+  <img src="./assets/Demo/Demo6.JPG" alt="index" width="200" height="400">
+</div>
+
+
 ## Features
 ### Explore Current Movies
 * Browse through a list of popular and current movies.
